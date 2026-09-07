@@ -1,19 +1,22 @@
 ## Hi there 👋 I'm Alan
 
-I am currently in my **7th year** at **Escuela Secundaria Técnica Número 1 "Raúl Escalabrini Ortiz"**.
+I'm a passionate developer currently in my final year (7th year) at **Escuela Secundaria Técnica Número 1 "Raúl Escalabrini Ortiz"**. 
 
-I am very interested in improving my English and pursuing **Computer Engineering** to boost my professional career!
+I love solving problems through code and building efficient, scalable solutions. I am actively improving my English to work in international environments and planning to pursue a degree in **Computer Engineering** to take my professional career to the next level!
 
 ---
 
 ### 🚀 What I'm working on
-- 🎓 Focusing on finishing my technical degree.
-- 💻 Building web applications with **PHP, HTML, CSS, and JS**.
-- 🗄️ Managing databases with **SQL Server, MariaDB, and PostgreSQL**.
-- 🐍 Developing Python applications and interested in **Computer Vision**.
-- 🔐 Interested in **Cybersecurity** and data protection.
+- 🎓 **Focusing on finishing my technical degree**, applying theoretical knowledge to real-world projects.
+- 💻 **Building full-stack web applications** using PHP, HTML, CSS, and JS.
+- 🗄️ **Architecting and managing databases**, ensuring data integrity and performance with SQL Server, MariaDB, and PostgreSQL.
+- ⚙️ **Automating workflows and deploying environments** using tools like n8n and containerizing apps with Docker.
+- 🐍 **Developing Python applications**, with a strong interest in Computer Vision.
+- 🔐 **Exploring Cybersecurity** and data protection best practices.
+- 📈 **Managing projects efficiently** using Agile methodologies and Jira.
 
 ### 🛠️ Tech Stack
+
 **Languages & Web:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -26,7 +29,10 @@ I am very interested in improving my English and pursuing **Computer Engineering
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-**Tools:**
+**DevOps, Automation & Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
