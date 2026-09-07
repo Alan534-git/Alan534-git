@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Alan
 
-I am currently in my **6th year** at **Escuela Secundaria Técnica Número 1 "Raúl Escalabrini Ortiz"**.
+I am currently in my **7th year** at **Escuela Secundaria Técnica Número 1 "Raúl Escalabrini Ortiz"**.
 
 I am very interested in improving my English and pursuing **Computer Engineering** to boost my professional career!
 
